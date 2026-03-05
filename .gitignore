@@ -1,0 +1,9 @@
+# secrets
+key
+key.pub
+
+# venv + IDE (раз уж у тебя .venv уже залетел)
+.venv/
+.idea/
+__pycache__/
+*.pyc
