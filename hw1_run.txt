@@ -1,0 +1,8 @@
+# check ignored
+py -3 check_ignored.py --project_dir=path\\to\\repo
+
+# clean trash
+py -3 clean_trash.py --trash_folder_path=path\\to\\trash --age_thr=120
+
+# stop cleaner
+Ctrl+C

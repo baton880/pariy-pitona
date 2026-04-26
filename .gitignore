@@ -1,0 +1,11 @@
+# py cache
+__pycache__/
+*.pyc
+
+# local logs
+clean_trash.log
+trash_deleter.log
+
+# temp stuff
+tmp_*/
+peer_*.json
